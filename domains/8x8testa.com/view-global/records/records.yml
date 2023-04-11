@@ -1,0 +1,14 @@
+test:
+  type: A
+  values:
+    - 108.61.56.35
+    - 207.192.73.151
+www1:
+  type: CNAME
+  value: 8x8.netlifyglobalcdn.com.
+www2:
+  type: CNAME
+  value: www.8x8.com.
+www3:
+  type: CNAME
+  value: www.8x8.com.

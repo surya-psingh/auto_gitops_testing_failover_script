@@ -1,0 +1,10 @@
+---
+'137':
+  type: PTR
+  value: sip2.mycontactual.com.
+'138':
+  type: PTR
+  value: sip1.mycontactual.com.
+'155':
+  type: PTR
+  value: interop01.mycontactual.com.

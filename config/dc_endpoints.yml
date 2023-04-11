@@ -1,0 +1,58 @@
+---
+vo-sv2:
+  powerdns:
+    api: http://10.121.136.45:8081
+    ns:
+      dnstest01-pdns01.prod.sjc01.us-west.8x8cloud.net: 10.121.136.28
+      dnstest01-pdns02.prod.sjc01.us-west.8x8cloud.net: 10.121.136.29
+      ns01.test.com: 10.121.136.28
+      ns01.us1.test.com: 10.121.136.29
+  bind:
+    primary: dnstest01-bind.prod.sjc01.us-west.8x8cloud.net
+    servers:
+      dnstest01-bind02.prod.sjc01.us-west.8x8cloud.net:
+        public: 1.1.1.1
+        private: 
+      dnstest01-bind03.prod.sjc01.us-west.8x8cloud.net:
+        public: 1.1.1.2
+        private: 10.1.1.2
+      dnstest01-bind04.prod.sjc01.us-west.8x8cloud.net:
+        public:
+        private:
+    ns:
+      dnstest01-bind02.prod.sjc01.us-west.8x8cloud.net: 10.121.136.33
+      dnstest01-bind03.prod.sjc01.us-west.8x8cloud.net: 10.121.136.34
+dc1:
+  powerdns:
+    api: http://10.121.136.45:8081
+    ns:
+      - ns01.test.com: 10.121.136.28
+      - ns02.test.com: 10.121.136.29
+  bind:
+    ns:
+      - ns01.test.com: 10.121.136.28
+      - ns02.test.com: 10.121.136.29
+dc2:
+  powerdns:
+    api: http://10.121.136.45:8081
+    ns:
+      - ns01.test.com: 10.121.136.28
+      - ns02.test.com: 10.121.136.29
+  bind:
+    ns:
+      - ns01.test.com: 10.121.136.28
+      - ns02.test.com: 10.121.136.29
+      
+vcc-uk3:
+  powerdns:
+    api: http://10.50.3.140:8081
+    delegates:
+      - ns01.uk3.whitepj.net.
+      - ns02.uk3.whitepj.net.
+    ns:
+      - 10.50.3.141
+      - 10.50.3.142
+
+default:
+  powerdns:
+    api: http://10.121.136.45:8081

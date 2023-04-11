@@ -1,0 +1,46 @@
+---
+? ''
+: - type: MX
+    values:
+      - exchange: aspmx.l.google.com.
+        preference: 1
+first-choice:
+  type: A
+  ttl: 220
+  value: 100.100.100.100
+second-choice:
+  type: A
+  ttl: 330
+  value: 110.110.110.110
+www1:
+  type: CNAME
+  value: 8x8.netlifyglobalcdn.com.
+www2:
+  type: CNAME
+  value: www.8x8.com.
+www3:
+  type: CNAME
+  value: www.8x8.com.
+www-a-multi:
+  type: A-MULTI
+  ttl: 60
+  active: choice-b
+  options:
+    choice-a:
+      values:
+        - 11.11.11.11
+        - 22.22.22.22
+    choice-b:
+      value: 33.33.33.33
+  tags:
+    - choices
+www-cname-multi:
+  type: CNAME-MULTI
+  active: cname-a
+  options:
+    cname-a:
+      value: first-choice.compute.dc01.8x8testa.com.
+    cname-b:
+      value: second-choice.compute.dc01.8x8testa.com.
+  tags:
+    - choices

@@ -1,0 +1,102 @@
+---
+? ''
+: - ttl: 86400
+    type: MX
+    value:
+      exchange: mail.whitepj.net.
+      preference: 10
+  - ttl: 1800
+    type: TXT
+    value: v=spf1 include:_spf.8x8.com ~all
+'*.hayward':
+  ttl: 86400
+  type: CNAME
+  value: hayward.whitepj.net.
+'*.hk1':
+  ttl: 86400
+  type: CNAME
+  value: hk1fw1-ge-0-2.8x8.com.
+'*.on1':
+  ttl: 86400
+  type: CNAME
+  value: on1fw1-ge-0-2.odcc.bell.ca.
+'*.santaclara':
+  ttl: 86400
+  type: CNAME
+  value: us1fw1-ge-0-2.mycontactual.com.
+'*.sy1':
+  ttl: 86400
+  type: CNAME
+  value: sy1fw1-ge-0-2.8x8.com.
+'*.uk2':
+  ttl: 86400
+  type: CNAME
+  value: uk2fw1-ge-0-2.8x8.com.
+'*.uk3':
+  ttl: 86400
+  type: CNAME
+  value: uk3fw01-ag1-v701.8x8.com.
+'*.us2':
+  ttl: 86400
+  type: CNAME
+  value: us2fw1-ge-0-2.8x8.com.
+app:
+  ttl: 86400
+  type: A
+  value: 69.3.149.35
+hk1:
+  ttl: 1800
+  type: TXT
+  value: v=spf1 include:_spf.8x8.com ~all
+mail:
+  ttl: 86400
+  type: A
+  value: 216.136.148.199
+ns0:
+  ttl: 86400
+  type: A
+  value: 208.94.148.2
+ns1:
+  ttl: 86400
+  type: A
+  value: 208.80.124.2
+ns2:
+  ttl: 86400
+  type: A
+  value: 208.80.126.2
+ns3:
+  ttl: 86400
+  type: A
+  value: 208.80.125.2
+ns4:
+  ttl: 86400
+  type: A
+  value: 208.80.127.2
+on1:
+  ttl: 1800
+  type: TXT
+  value: v=spf1 include:_spf.8x8.com ~all
+santaclara:
+  ttl: 1800
+  type: TXT
+  value: v=spf1 include:_spf.8x8.com ~all
+sk1:
+  ttl: 1800
+  type: TXT
+  value: v=spf1 include:_spf.8x8.com ~all
+sy1:
+  ttl: 1800
+  type: TXT
+  value: v=spf1 include:_spf.8x8.com ~all
+uk2:
+  ttl: 1800
+  type: TXT
+  value: v=spf1 include:_spf.8x8.com ~all
+uk3:
+  ttl: 1800
+  type: TXT
+  value: v=spf1 include:_spf.8x8.com ~all
+us2:
+  ttl: 1800
+  type: TXT
+  value: v=spf1 include:_spf.8x8.com ~all

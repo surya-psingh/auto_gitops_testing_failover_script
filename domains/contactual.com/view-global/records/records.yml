@@ -1,0 +1,100 @@
+---
+? ''
+: - ttl: 1800
+    type: A
+    value: 64.75.5.121
+  - ttl: 1800
+    type: MX
+    values:
+    - exchange: aspmx.l.google.com.
+      preference: 1
+    - exchange: alt1.aspmx.l.google.com.
+      preference: 5
+    - exchange: alt2.aspmx.l.google.com.
+      preference: 5
+    - exchange: alt3.aspmx.l.google.com.
+      preference: 10
+    - exchange: alt4.aspmx.l.google.com.
+      preference: 10
+  - ttl: 1800
+    type: TXT
+    value: google-site-verification=eh9creplNKJYQ8afo588A2pd5aauzZzK8WPzjztw3UM
+apps:
+- ttl: 300
+  type: A
+  value: 63.204.144.164
+- ttl: 1800
+  type: MX
+  values:
+  - exchange: aspmx.l.google.com.
+    preference: 10
+  - exchange: alt1.aspmx.l.google.com.
+    preference: 20
+  - exchange: alt2.aspmx.l.google.com.
+    preference: 20
+  - exchange: aspmx2.googlemail.com.
+    preference: 30
+  - exchange: aspmx3.googlemail.com.
+    preference: 30
+  - exchange: aspmx4.googlemail.com.
+    preference: 30
+  - exchange: aspmx5.googlemail.com.
+    preference: 30
+blog:
+  ttl: 1800
+  type: A
+  value: 72.32.150.157
+imap.apps:
+  ttl: 1800
+  type: CNAME
+  value: imap.gmail.com.
+info:
+  ttl: 1800
+  type: A
+  value: 208.71.172.44
+m1._domainkey:
+  ttl: 300
+  type: TXT
+  value: k=rsa\; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDFUlNZvtGDlIGDRtzyRQydM9yRInD5YMx86QpgZ3v7pT+Mx4tGbjUxY41TXbsp7UH9hTREaKKGQKNM/B3FzcFVv4zafZ09lUaXcbSdtD70iXyH0OXEGXLZI5gG0ZwjK5ptgQ18d+pUP9s8xMkJnZlubTk9MLvQnv3ZBzoL9FHFDQIDAQAB
+mail:
+  ttl: 1800
+  type: A
+  value: 199.73.49.104
+ns0:
+  ttl: 1800
+  type: A
+  value: 208.94.148.2
+ns1:
+  ttl: 1800
+  type: A
+  value: 208.80.124.2
+ns2:
+  ttl: 1800
+  type: A
+  value: 208.80.126.2
+ns3:
+  ttl: 1800
+  type: A
+  value: 208.80.125.2
+ns4:
+  ttl: 1800
+  type: A
+  value: 208.80.127.2
+pop.apps:
+  ttl: 1800
+  type: CNAME
+  value: pop.gmail.com.
+smtp.apps:
+  ttl: 1800
+  type: CNAME
+  value: smtp.gmail.com.
+test:
+  ttl: 1800
+  type: MX
+  value:
+    exchange: test.contactual.com.
+    preference: 0
+www:
+  ttl: 1800
+  type: CNAME
+  value: contactual.com.

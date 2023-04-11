@@ -1,0 +1,8 @@
+# CODEOWNERS File
+# Order is important; the last matching pattern takes the most precedence.
+
+# Repo Admins:
+#   Unless a later match takes precedence, will be requested by default for
+#   review when someone opens a pull request.
+# -------------------------------------------
+* @mikelaws @Cesar-EF @chavan-dinesh

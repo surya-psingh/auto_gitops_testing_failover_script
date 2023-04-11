@@ -1,0 +1,5 @@
+---
+'178':
+  ttl: 300
+  type: PTR
+  value: ca1fw1-ge-0-2.mycontactual.ca.

@@ -1,0 +1,421 @@
+---
+'21':
+  ttl: 1800
+  type: PTR
+  value: us1m1001.mycontactual.com.
+'22':
+  ttl: 1800
+  type: PTR
+  value: us1m1002.mycontactual.com.
+'23':
+  ttl: 1800
+  type: PTR
+  value: us1m1003.mycontactual.com.
+'24':
+  ttl: 1800
+  type: PTR
+  value: us1m1004.mycontactual.com.
+'25':
+  ttl: 1800
+  type: PTR
+  value: us1m1005.mycontactual.com.
+'26':
+  ttl: 86400
+  type: PTR
+  value: us1m1006.mycontactual.com.
+'27':
+  ttl: 86400
+  type: PTR
+  value: us1m1007.mycontactual.com.
+'28':
+  ttl: 86400
+  type: PTR
+  value: us1m1008.mycontactual.com.
+'29':
+  ttl: 86400
+  type: PTR
+  value: us1m1009.mycontactual.com.
+'30':
+  ttl: 86400
+  type: PTR
+  value: us1m1010.mycontactual.com.
+'31':
+  ttl: 86400
+  type: PTR
+  value: us1m1011.mycontactual.com.
+'32':
+  ttl: 86400
+  type: PTR
+  value: us1m1012.mycontactual.com.
+'33':
+  ttl: 86400
+  type: PTR
+  value: us1m1013.mycontactual.com.
+'34':
+  ttl: 86400
+  type: PTR
+  value: us1m1014.mycontactual.com.
+'35':
+  ttl: 86400
+  type: PTR
+  value: us1m1015.mycontactual.com.
+'36':
+  ttl: 86400
+  type: PTR
+  value: us1m1016.mycontactual.com.
+'37':
+  ttl: 86400
+  type: PTR
+  value: us1m1017.mycontactual.com.
+'38':
+  ttl: 86400
+  type: PTR
+  value: us1m1018.mycontactual.com.
+'65':
+  ttl: 86400
+  type: PTR
+  value: us1fw1-ge-0-1.mycontactual.com.
+'66':
+  ttl: 86400
+  type: PTR
+  value: us1vs830.mycontactual.com.
+'67':
+  ttl: 86400
+  type: PTR
+  value: us1nas11-dmz.mycontactual.com.
+'68':
+  ttl: 86400
+  type: PTR
+  value: us1nas12-dmz.mycontactual.com.
+'69':
+  ttl: 86400
+  type: PTR
+  value: us1sn01-dmz.mycontactual.com.
+'70':
+  ttl: 86400
+  type: PTR
+  value: us1sn02-dmz.mycontactual.com.
+'71':
+  ttl: 86400
+  type: PTR
+  value: www.mycontactual.com.
+'72':
+  ttl: 86400
+  type: PTR
+  value: na2.mycontactual.com.
+'73':
+  ttl: 86400
+  type: PTR
+  value: na3.mycontactual.com.
+'74':
+  ttl: 86400
+  type: PTR
+  value: na4.mycontactual.com.
+'75':
+  ttl: 86400
+  type: PTR
+  value: vcc-na4.8x8.com.
+'76':
+  ttl: 86400
+  type: PTR
+  value: vcc-na5.8x8.com.
+'77':
+  ttl: 86400
+  type: PTR
+  value: us1107.mycontactual.com.
+'78':
+  ttl: 86400
+  type: PTR
+  value: us1111.mycontactual.com.
+'79':
+  ttl: 86400
+  type: PTR
+  value: vcc-na6.8x8.com.
+'80':
+  ttl: 86400
+  type: PTR
+  value: vcc-na11.8x8.com.
+'81':
+  ttl: 86400
+  type: PTR
+  value: vcc-na12.8x8.com.
+'82':
+  ttl: 86400
+  type: PTR
+  value: vcc-ftps-us1.8x8.com.
+'83':
+  ttl: 86400
+  type: PTR
+  value: ftp.mycontactual.com.
+'84':
+  ttl: 86400
+  type: PTR
+  value: ftps.mycontactual.com.
+'85':
+  ttl: 86400
+  type: PTR
+  value: us1vs831.mycontactual.com.
+'86':
+  ttl: 86400
+  type: PTR
+  value: rtp1.mycontactual.com.
+'87':
+  ttl: 86400
+  type: PTR
+  value: rtp2.mycontactual.com.
+'89':
+  ttl: 86400
+  type: PTR
+  value: vcc-collaborate-us1.8x8.com.
+'90':
+  ttl: 86400
+  type: PTR
+  value: vcc-na1.8x8.com.
+'91':
+  ttl: 86400
+  type: PTR
+  value: vcc-na2.8x8.com.
+'92':
+  ttl: 86400
+  type: PTR
+  value: vcc-na3.8x8.com.
+'93':
+  ttl: 86400
+  type: PTR
+  value: us1113.mycontactual.com.
+'94':
+  ttl: 86400
+  type: PTR
+  value: us1114.mycontactual.com.
+'95':
+  ttl: 86400
+  type: PTR
+  value: us1vs816.mycontactual.com.
+'96':
+  ttl: 86400
+  type: PTR
+  value: us1022.mycontactual.com.
+'97':
+  ttl: 86400
+  type: PTR
+  value: us1108.mycontactual.com.
+'99':
+  ttl: 86400
+  type: PTR
+  value: us1vs817.mycontactual.com.
+'102':
+  ttl: 86400
+  type: PTR
+  value: p6voc01.mycontactual.com.
+'103':
+  ttl: 86400
+  type: PTR
+  value: p6voc02.mycontactual.com.
+'104':
+  ttl: 86400
+  type: PTR
+  value: interop01.mycontactual.com.
+'105':
+  ttl: 86400
+  type: PTR
+  value: us1240.mycontactual.com.
+'106':
+  ttl: 86400
+  type: PTR
+  value: us1241.mycontactual.com.
+'107':
+  ttl: 86400
+  type: PTR
+  value: us1112.mycontactual.com.
+'108':
+  ttl: 86400
+  type: PTR
+  value: us1021.mycontactual.com.
+'111':
+  ttl: 86400
+  type: PTR
+  value: dnsvip.mycontactual.com.
+'112':
+  ttl: 86400
+  type: PTR
+  value: p6voc03.mycontactual.com.
+'113':
+  ttl: 86400
+  type: PTR
+  value: linux203.mycontactual.com.
+'114':
+  ttl: 86400
+  type: PTR
+  value: linux204.mycontactual.com.
+'115':
+  ttl: 86400
+  type: PTR
+  value: linux208.mycontactual.com.
+'116':
+  ttl: 86400
+  type: PTR
+  value: linux708.mycontactual.com.
+'117':
+  ttl: 86400
+  type: PTR
+  value: linux709.mycontactual.com.
+'118':
+  ttl: 86400
+  type: PTR
+  value: linux712.mycontactual.com.
+'119':
+  ttl: 1800
+  type: PTR
+  value: linux713.mycontactual.com.
+'120':
+  ttl: 1800
+  type: PTR
+  value: us1007.mycontactual.com.
+'121':
+  ttl: 1800
+  type: PTR
+  value: us1011.mycontactual.com.
+'122':
+  ttl: 1800
+  type: PTR
+  value: us1012.mycontactual.com.
+'123':
+  ttl: 1800
+  type: PTR
+  value: us1013.mycontactual.com.
+'124':
+  ttl: 1800
+  type: PTR
+  value: us1014.mycontactual.com.
+'125':
+  ttl: 1800
+  type: PTR
+  value: linux717.mycontactual.com.
+'126':
+  ttl: 1800
+  type: PTR
+  value: linux718.mycontactual.com.
+'129':
+  ttl: 1800
+  type: PTR
+  value: us1.vccmail.8x8.com.
+'131':
+  ttl: 1800
+  type: PTR
+  value: en1.vccmail.8x8.com.
+'193':
+  ttl: 1800
+  type: PTR
+  value: us1inet1-ge-0-0-1.mycontactual.com.
+'194':
+  ttl: 1800
+  type: PTR
+  value: us1inet2-ge-0-0-1.mycontactual.com.
+'197':
+  ttl: 1800
+  type: PTR
+  value: us1inet1-ge-2-0-0.mycontactual.com.
+'198':
+  ttl: 1800
+  type: PTR
+  value: us1inet1-centurylink.mycontactual.com.
+'201':
+  ttl: 1800
+  type: PTR
+  value: us1inet1-ge-2-0-2-510.mycontactual.com.
+'202':
+  ttl: 1800
+  type: PTR
+  value: us1inet1-8x8-sv2.mycontactual.com.
+'205':
+  ttl: 1800
+  type: PTR
+  value: us1inet1-ge-0-0-3.mycontactual.com.
+'206':
+  ttl: 1800
+  type: PTR
+  value: us1edge03-fa-0-0.mycontactual.com.
+'225':
+  ttl: 1800
+  type: PTR
+  value: vcc-interop-sb.8x8.com.
+'226':
+  ttl: 1800
+  type: PTR
+  value: us1vs540.mycontactual.com.
+'227':
+  ttl: 1800
+  type: PTR
+  value: us1vs541.mycontactual.com.
+'230':
+  ttl: 1800
+  type: PTR
+  value: vm1.mycontactual.com.
+'231':
+  ttl: 1800
+  type: PTR
+  value: us1vs107.mycontatual.com.
+'232':
+  ttl: 1800
+  type: PTR
+  value: us1vs108.mycontatual.com.
+'233':
+  ttl: 1800
+  type: PTR
+  value: us1vs112.mycontatual.com.
+'234':
+  ttl: 1800
+  type: PTR
+  value: us1vs113.mycontatual.com.
+'238':
+  ttl: 1800
+  type: PTR
+  value: us1vs301.mycontactual.com.
+'239':
+  ttl: 1800
+  type: PTR
+  value: us1vs303.mycontatual.com.
+'240':
+  ttl: 1800
+  type: PTR
+  value: vm2.mycontactual.com.
+'241':
+  ttl: 1800
+  type: PTR
+  value: us1vs201.mycontactual.com.
+'242':
+  ttl: 1800
+  type: PTR
+  value: us1vs202.mycontactual.com.
+'243':
+  ttl: 1800
+  type: PTR
+  value: us1vs203.mycontactual.com.
+'244':
+  ttl: 1800
+  type: PTR
+  value: us1vs204.mycontactual.com.
+'248':
+  ttl: 1800
+  type: PTR
+  value: us1vs302.mycontactual.com.
+'249':
+  ttl: 1800
+  type: PTR
+  value: us1vs304.mycontatual.com.
+'250':
+  ttl: 1800
+  type: PTR
+  value: vcc-interop-staging.8x8.com.
+'251':
+  ttl: 1800
+  type: PTR
+  value: snip-staging.mycontactual.com.
+'252':
+  ttl: 1800
+  type: PTR
+  value: vcc-vm1.8x8.com.
+'253':
+  ttl: 86400
+  type: PTR
+  value: vcc-vm2.8x8.com.

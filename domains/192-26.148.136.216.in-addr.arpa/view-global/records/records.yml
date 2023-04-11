@@ -1,0 +1,249 @@
+---
+'193':
+  ttl: 1800
+  type: PTR
+  value: ftps-dev.cceng.8x8.com.
+'194':
+  ttl: 1800
+  type: PTR
+  value: ftps-qa.cceng.8x8.com.
+'195':
+  ttl: 1800
+  type: PTR
+  value: hold195.cceng.8x8.com.
+'196':
+  ttl: 1800
+  type: PTR
+  value: hold196.cceng.8x8.com.
+'197':
+  ttl: 1800
+  type: PTR
+  value: hold197.cceng.8x8.com.
+'198':
+  ttl: 1800
+  type: PTR
+  value: hold198.cceng.8x8.com.
+'199':
+  ttl: 1800
+  type: PTR
+  value: hold199.cceng.8x8.com.
+'200':
+  ttl: 1800
+  type: PTR
+  value: hold200.cceng.8x8.com.
+'201':
+  ttl: 1800
+  type: PTR
+  value: a.cceng.8x8.com.
+'202':
+  ttl: 1800
+  type: PTR
+  value: b.cceng.8x8.com.
+'203':
+  ttl: 1800
+  type: PTR
+  value: c.cceng.8x8.com.
+'204':
+  ttl: 1800
+  type: PTR
+  value: d.cceng.8x8.com.
+'205':
+  ttl: 1800
+  type: PTR
+  value: e.cceng.8x8.com.
+'206':
+  ttl: 1800
+  type: PTR
+  value: f.cceng.8x8.com.
+'207':
+  ttl: 1800
+  type: PTR
+  value: g.cceng.8x8.com.
+'208':
+  ttl: 1800
+  type: PTR
+  value: h.cceng.8x8.com.
+'209':
+  ttl: 1800
+  type: PTR
+  value: i.cceng.8x8.com.
+'210':
+  ttl: 1800
+  type: PTR
+  value: j.cceng.8x8.com.
+'211':
+  ttl: 1800
+  type: PTR
+  value: sip211.cceng.8x8.com.
+'212':
+  ttl: 1800
+  type: PTR
+  value: sip212.cceng.8x8.com.
+'213':
+  ttl: 1800
+  type: PTR
+  value: sip213.cceng.8x8.com.
+'214':
+  ttl: 1800
+  type: PTR
+  value: sip214.cceng.8x8.com.
+'215':
+  ttl: 1800
+  type: PTR
+  value: sip215.cceng.8x8.com.
+'216':
+  ttl: 1800
+  type: PTR
+  value: sip216.cceng.8x8.com.
+'217':
+  ttl: 1800
+  type: PTR
+  value: sip217.cceng.8x8.com.
+'218':
+  ttl: 1800
+  type: PTR
+  value: sip218.cceng.8x8.com.
+'219':
+  ttl: 1800
+  type: PTR
+  value: sip219.cceng.8x8.com.
+'220':
+  ttl: 1800
+  type: PTR
+  value: sip220.cceng.8x8.com.
+'221':
+  ttl: 1800
+  type: PTR
+  value: sip221.cceng.8x8.com.
+'222':
+  ttl: 1800
+  type: PTR
+  value: sip222.cceng.8x8.com.
+'223':
+  ttl: 1800
+  type: PTR
+  value: sip223.cceng.8x8.com.
+'224':
+  ttl: 1800
+  type: PTR
+  value: sip224.cceng.8x8.com.
+'225':
+  ttl: 1800
+  type: PTR
+  value: sip225.cceng.8x8.com.
+'226':
+  ttl: 1800
+  type: PTR
+  value: sip226.cceng.8x8.com.
+'227':
+  ttl: 1800
+  type: PTR
+  value: sip227.cceng.8x8.com.
+'228':
+  ttl: 1800
+  type: PTR
+  value: sip228.cceng.8x8.com.
+'229':
+  ttl: 1800
+  type: PTR
+  value: sip229.cceng.8x8.com.
+'230':
+  ttl: 1800
+  type: PTR
+  value: sip230.cceng.8x8.com.
+'231':
+  ttl: 1800
+  type: PTR
+  value: sip231.cceng.8x8.com.
+'232':
+  ttl: 1800
+  type: PTR
+  value: sip232.cceng.8x8.com.
+'233':
+  ttl: 1800
+  type: PTR
+  value: sip233.cceng.8x8.com.
+'234':
+  ttl: 1800
+  type: PTR
+  value: sip234.cceng.8x8.com.
+'235':
+  ttl: 1800
+  type: PTR
+  value: sip235.cceng.8x8.com.
+'236':
+  ttl: 1800
+  type: PTR
+  value: sip236.cceng.8x8.com.
+'237':
+  ttl: 1800
+  type: PTR
+  value: sip237.cceng.8x8.com.
+'238':
+  ttl: 1800
+  type: PTR
+  value: sip238.cceng.8x8.com.
+'239':
+  ttl: 1800
+  type: PTR
+  value: sip239.cceng.8x8.com.
+'240':
+  ttl: 1800
+  type: PTR
+  value: sip240.cceng.8x8.com.
+'241':
+  ttl: 1800
+  type: PTR
+  value: sip241.cceng.8x8.com.
+'242':
+  ttl: 1800
+  type: PTR
+  value: sip242.cceng.8x8.com.
+'243':
+  ttl: 1800
+  type: PTR
+  value: sip243.cceng.8x8.com.
+'244':
+  ttl: 1800
+  type: PTR
+  value: sip244.cceng.8x8.com.
+'245':
+  ttl: 1800
+  type: PTR
+  value: sip245.cceng.8x8.com.
+'246':
+  ttl: 1800
+  type: PTR
+  value: sip246.cceng.8x8.com.
+'247':
+  ttl: 1800
+  type: PTR
+  value: sip247.cceng.8x8.com.
+'248':
+  ttl: 1800
+  type: PTR
+  value: sip248.cceng.8x8.com.
+'249':
+  ttl: 1800
+  type: PTR
+  value: sip249.cceng.8x8.com.
+'250':
+  ttl: 1800
+  type: PTR
+  value: sip250.cceng.8x8.com.
+'251':
+  ttl: 1800
+  type: PTR
+  value: snip.cceng.8x8.com.
+'252':
+  ttl: 1800
+  type: PTR
+  value: sip252.cceng.8x8.com.
+'253':
+  ttl: 1800
+  type: PTR
+  value: sip253.cceng.8x8.com.
+'254':
+  ttl: 1800
+  type: PTR
+  value: fw-dmz.cceng.8x8.com.

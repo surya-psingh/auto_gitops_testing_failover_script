@@ -1,0 +1,128 @@
+---
+? ''
+: ttl: 1800
+  type: CAA
+  value:
+    flags: 0
+    tag: issue
+    value: digicert.com
+'*':
+  ttl: 86400
+  type: CNAME
+  value: contactual.com.
+c3ls:
+  ttl: 86400
+  type: A
+  value: 64.75.5.120
+collaborate-us1:
+  ttl: 86400
+  type: A
+  value: 8.21.164.89
+dnsvip:
+  ttl: 86400
+  type: A
+  value: 8.21.164.111
+interop01:
+  ttl: 86400
+  type: A
+  value: 8.21.164.104
+interop02:
+  ttl: 86400
+  type: A
+  value: 8.21.164.104
+interop-8x8:
+  ttl: 1800
+  type: A
+  value: 8.21.164.104
+interop-sb:
+  ttl: 86400
+  type: A
+  value: 8.21.164.225
+ns0:
+  ttl: 86400
+  type: A
+  value: 208.94.148.2
+ns1:
+  ttl: 86400
+  type: A
+  value: 208.80.124.2
+ns2:
+  ttl: 86400
+  type: A
+  value: 208.80.126.2
+ns3:
+  ttl: 86400
+  type: A
+  value: 208.80.125.2
+ns4:
+  ttl: 86400
+  type: A
+  value: 208.80.127.2
+ntp1:
+  ttl: 86400
+  type: A
+  value: 8.21.164.193
+ntp2:
+  ttl: 86400
+  type: A
+  value: 8.21.164.194
+ntp3:
+  ttl: 86400
+  type: A
+  value: 8.21.164.206
+rtp1:
+  ttl: 86400
+  type: A
+  value: 8.21.164.86
+rtp2:
+  ttl: 86400
+  type: A
+  value: 8.21.164.87
+sip:
+  ttl: 86400
+  type: A
+  value: 8.21.164.87
+sip1:
+  ttl: 86400
+  type: A
+  value: 8.21.164.86
+sip2:
+  ttl: 86400
+  type: A
+  value: 8.21.164.87
+us1edge03-fa-0-0:
+  ttl: 86400
+  type: A
+  value: 8.21.164.206
+us1inet1-8x8-sv2:
+  ttl: 86400
+  type: A
+  value: 8.21.164.202
+us1inet1-centurylink:
+  ttl: 86400
+  type: A
+  value: 8.21.164.198
+us1inet1-ge-0-0-1:
+  ttl: 86400
+  type: A
+  value: 8.21.164.193
+us1inet1-ge-0-0-3:
+  ttl: 86400
+  type: A
+  value: 8.21.164.205
+us1inet1-ge-2-0-0:
+  ttl: 86400
+  type: A
+  value: 8.21.164.197
+us1inet1-ge-2-0-2-10:
+  ttl: 86400
+  type: A
+  value: 64.125.69.46
+us1inet1-ge-2-0-2-510:
+  ttl: 86400
+  type: A
+  value: 8.21.164.201
+us1inet2-ge-0-0-1:
+  ttl: 86400
+  type: A
+  value: 8.21.164.194
