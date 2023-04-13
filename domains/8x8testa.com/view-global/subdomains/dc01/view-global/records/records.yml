@@ -25,7 +25,7 @@ www3:
 www-a-multi:
   type: A-MULTI
   ttl: 60
-  active: choice-b
+  active: choice-a
   options:
     choice-a:
       values:
@@ -37,7 +37,7 @@ www-a-multi:
   - choices
 www-cname-multi:
   type: CNAME-MULTI
-  active: choice-b
+  active: choice-a
   options:
     choice-a:
       value: first-choice.compute.dc01.8x8testa.com.
