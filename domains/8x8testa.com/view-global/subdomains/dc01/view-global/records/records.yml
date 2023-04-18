@@ -38,11 +38,11 @@ www-a-multi:
     - choices
 www-cname-multi:
   type: CNAME-MULTI
-  active: cname-a
+  active: choice-b
   options:
-    cname-a:
+    choice-a:
       value: first-choice.compute.dc01.8x8testa.com.
-    cname-b:
+    choice-b:
       value: second-choice.compute.dc01.8x8testa.com.
   tags:
     - choices
