@@ -1,11 +1,10 @@
----
 ? ''
 : - type: MX
     values:
-      - exchange: aspmx.l.google.com.
-        preference: 1
-      - exchange: alt1.aspmx.l.google.com.
-        preference: 5
+    - exchange: aspmx.l.google.com.
+      preference: 1
+    - exchange: alt1.aspmx.l.google.com.
+      preference: 5
 first-choice:
   type: A
   ttl: 220
@@ -30,12 +29,12 @@ www-a-multi:
   options:
     choice-a:
       values:
-        - 11.11.11.11
-        - 22.22.22.22
+      - 11.11.11.11
+      - 22.22.22.22
     choice-b:
       value: 33.33.33.33
   tags:
-    - choices
+  - choices
 www-cname-multi:
   type: CNAME-MULTI
   active: choice-b
@@ -45,4 +44,4 @@ www-cname-multi:
     choice-b:
       value: second-choice.compute.dc01.8x8testa.com.
   tags:
-    - choices
+  - choices
