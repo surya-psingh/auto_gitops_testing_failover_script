@@ -1,4 +1,3 @@
----
 ? ''
 : - type: MX
     values:
@@ -46,3 +45,4 @@ www-cname-multi:
       value: second-choice.compute.dc01.8x8testa.com.
   tags:
     - choices
+    - cname
